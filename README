@@ -1,0 +1,10 @@
+Shiny applicatin and documentation for Johns Hopkins Coursera Data Science Track,
+course 9 on Developing Data Products.
+
+Documentation is available at 
+https://jwhoggard.github.io/Least_Squares_App/LeastSquares.html
+
+The application is in subdirectory Least_Squares_App.
+
+It is hosted at 
+https://jwhoggard.shinyapps.io/least_squares/
